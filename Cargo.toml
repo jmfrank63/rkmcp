@@ -1,0 +1,12 @@
+[package]
+name = "universal-kmcp"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+enigo = "0.1.2"
+screenshots = "0.5.4"
+clipboard = "0.5.0"
+device_query = "1.1.3"
